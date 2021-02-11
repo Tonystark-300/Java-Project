@@ -80,7 +80,7 @@ class Test
 		for(int i =0 ; i< num; i++)
 		{
 			obj[i] = new Rectangle();
-			System.out.println("**************************");
+			System.out.println("*************************");
 			obj[i].setter();
 			obj[i].ShowColor();
 			obj[i].getter();				
