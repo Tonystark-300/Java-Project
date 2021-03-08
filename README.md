@@ -1,11 +1,11 @@
 # Java-Project
 Semester lV Project
 Write a program to implement following scenario:
-Create an interface Color having:
-default method: void showColor() -->  displays the color of object
-abstract methods: double area()--> will be used to return area of object
-double perimeter() --> will be used to return perimeter of object
-Now, create a class Rectangle which inherits Color interface and has:
+<h1>Create an interface Color having:
+- default method: void showColor() -->  displays the color of object
+- abstract methods: double area()--> will be used to return area of object
+- double perimeter() --> will be used to return perimeter of object
+<h1>Now, create a class Rectangle which inherits Color interface and has:
 private attributes: length, width
 Make setter and getter methods for these attributes.
 Now, create a class Test having main() method in which you have to make “n” objects of
