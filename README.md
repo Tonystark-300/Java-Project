@@ -2,8 +2,8 @@
 Semester lV Project
 Write a program to implement following scenario:
 <h1>Create an interface Color having:</h1>
-- default method: void showColor() -->  displays the color of object
-- abstract methods: double area()--> will be used to return area of object
+- default method: void showColor() -->  displays the color of object<br>
+- abstract methods: double area()--> will be used to return area of object<br>
 - double perimeter() --> will be used to return perimeter of object
 <h1>Now, create a class Rectangle which inherits Color interface and has:</h1>
 private attributes: length, width
