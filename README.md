@@ -6,11 +6,11 @@ Write a program to implement following scenario:
 - abstract methods: double area()--> will be used to return area of object<br>
 - double perimeter() --> will be used to return perimeter of object
 <h1>Now, create a class Rectangle which inherits Color interface and has:</h1>
-private attributes: length, width
-Make setter and getter methods for these attributes.
-Now, create a class Test having main() method in which you have to make “n” objects of
+-private attributes: length, width
+-Make setter and getter methods for these attributes.
+<b><h5>Now, create a class Test having main() method in which you have to make “n” objects of
 Rectangle class (where “n” is specified by user at run-time). Also, the required details about
-the rectangle objects have to be taken as input from the user during run-time.
+  the rectangle objects have to be taken as input from the user during run-time.</h5></b>
 Make a method named: saveRecords() in the same class which will perform the task of
 Serialization of only those rectangle-objects whose area exceeds value of 100.
 Make another method named: showRecords() in the same class which will perform the task
