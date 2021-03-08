@@ -7,8 +7,8 @@ Write a program to implement following scenario:
 - double perimeter() --> will be used to return perimeter of object
 - 
 <h4><b>Now, create a class Rectangle which inherits Color interface and has:</b></h4>
--private attributes: length, width<br>
--Make setter and getter methods for these attributes.
+ - private attributes: length, width<br>
+ - Make setter and getter methods for these attributes.
 
 
 <b><h4>Now, create a class Test having main() </h4></b> method in which you have to make “n” objects of
