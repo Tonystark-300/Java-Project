@@ -18,9 +18,9 @@ Rectangle class (where “n” is specified by user at run-time). Also, the requ
 <b><h4>Make a method named: saveRecords() in the same class which will perform the task of
   Serialization of only those rectangle-objects whose area exceeds value of 100.</h4></b>
   
-<p><b><h4>Make another method named: showRecords()</h4></b> in the same class which will perform the task
+<b><h4>Make another method named: showRecords()</h4></b> in the same class which will perform the task
 of de-serialization and display complete information of all rectangle objects.
-<br></p>
+<br>
 Note: Don’t make any separate instance variable other than the ones specified in above
 scenario. Also, make use proper exception handling by using inbuilt exception-classes and 
 also make your own custom exception class to deal with the exceptions such as user
